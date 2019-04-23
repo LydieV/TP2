@@ -8,6 +8,7 @@
 {
 	background-color: chocolate;
 	padding: 20px;
+    text-align: center;
 }
 
 #header h1 { margin: 0; }
@@ -89,6 +90,10 @@
     text-decoration: none;
     color: chocolate;
     
+}
+
+#news h2{
+    color: chocolate;
 }
 
 #news a:hover{
