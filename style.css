@@ -94,6 +94,7 @@
 
 #news h2{
     color: chocolate;
+    text-align: center;
 }
 
 #news a:hover{
