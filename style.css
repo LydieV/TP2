@@ -85,6 +85,12 @@
 	opacity: 0.83;
 }
 
+#news a{
+    text-decoration: none;
+    color: chocolate;
+    
+}
+
 #footer
 {
 	clear: both;
