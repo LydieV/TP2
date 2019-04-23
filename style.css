@@ -91,6 +91,10 @@
     
 }
 
+#news a:hover{
+    color: blue;
+}
+
 #footer
 {
 	clear: both;
